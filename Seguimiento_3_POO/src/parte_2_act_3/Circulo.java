@@ -12,7 +12,7 @@ public class Circulo {
 		return Math.PI*Math.pow(radio,2);
 	}
 	 
-	double calcularPerímetro() {
+	double calcularPerimetro() {
 		return 2*Math.PI*radio;
 	}
 	
